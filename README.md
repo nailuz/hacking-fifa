@@ -12,13 +12,13 @@ Aqui abordaremos algumas ferramentas, conhecimentos e tecnologias que envolvem o
   * Carregamento dos dados
   * Verificando metadado
   * Funçõe básicas
-  * Aplicando funções para de dados
+  * Manipulando
   * Explorando e navegando
   * Visualização
 
 **Aplicando tecnicas de machine learning**
 
-* [Regressão Linear](https://github.com/nailuz/hacking-fifa)
+* [Regressão Linear](https://github.com/nailuz/hacking-fifa) (Prévia)
   * Carregando bibliotecas
   * Definindo objetivo
   * Pré-processamento
