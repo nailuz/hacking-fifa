@@ -1,6 +1,6 @@
 # FIFA & Python (Pandas)
 
-Dessa vez será diferente, teremos teclado e mouse no lugar do controle, sem deixar a diversão de lado. Nesse projeto iremos manipular dados publicos do jogo Fifa da Eletronic Arts, obtidos na [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/data).
+Dessa vez será diferente, teremos teclado e mouse no lugar do controle para jogar, sem deixar a diversão de lado. Nesse projeto iremos manipular dados publicos do jogo Fifa da Eletronic Arts, obtidos na [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/data).
 
 Aqui abordaremos algumas ferramentas, conhecimentos e tecnologias que envolvem o dia a dia de um Data Science. Para isso é essencial que você tenha instalado na sua máquina, caso queira reproduzir localmente, os requisitos informados ao fim desse conteúdo.
 
